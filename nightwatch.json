@@ -24,7 +24,7 @@
   },
   "test_settings" : {
     "default" : {
-      "launch_url" : "https://www.hubtraffic.com/",
+      "launch_url" : "https://www.hubtraffic.com",
       "selenium_port"  : 4444,
       "selenium_host"  : "localhost",
       "silent": true,

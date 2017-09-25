@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="hubtraffic.SmokeTest.HT_WidgetPreview"
+    errors="0" failures="1" hostname="" id="" package="SmokeTest" skipped="0"
+    tests="1" time="5.344" timestamp="Thu, 21 Sep 2017 16:07:39 GMT">
+  
+    <testcase name="[HubTraffic] Widget Preview - Smoketest" classname="hubtraffic.SmokeTest.HT_WidgetPreview" time="5.344" assertions="1">  <failure message="Failed [ok]: (Init page... &quot;/&quot;)">    at Object.ok (C:\Project\nightwatch\lib\core\api.js:67:24)
+    at Object.&lt;anonymous&gt; (C:\Project\tests\hubtraffic\SmokeTest\HT_WidgetPreview.js:152:23)
+    at HttpRequest.&lt;anonymous&gt; (C:\Project\nightwatch\lib\index.js:366:18)
+    at HttpRequest.&lt;anonymous&gt; (C:\Project\nightwatch\lib\index.js:382:15)
+    at IncomingMessage.&lt;anonymous&gt; (C:\Project\nightwatch\lib\http\request.js:166:16)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

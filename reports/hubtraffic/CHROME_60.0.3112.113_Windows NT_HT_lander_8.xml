@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="hubtraffic.HT_lander_8"
+    errors="0" failures="0" hostname="" id="" package="hubtraffic" skipped="0"
+    tests="1" time="6.316" timestamp="Wed, 20 Sep 2017 14:24:22 GMT">
+  
+    <testcase name="[HubTraffic] - Terms &amp; Conditions [Button Func.]" classname="hubtraffic.HT_lander_8" time="6.316" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
