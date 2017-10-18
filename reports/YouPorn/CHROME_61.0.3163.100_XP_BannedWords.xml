@@ -5,9 +5,9 @@
 
   <testsuite name="YouPorn.BannedWords"
     errors="0" failures="0" hostname="" id="" package="YouPorn" skipped="0"
-    tests="1" time="14.49" timestamp="Tue, 17 Oct 2017 18:13:27 GMT">
+    tests="1" time="32.21" timestamp="Tue, 17 Oct 2017 22:42:39 GMT">
   
-    <testcase name="YouPorn - Banned Terms" classname="YouPorn.BannedWords" time="14.49" assertions="15">
+    <testcase name="YouPorn - Banned Terms" classname="YouPorn.BannedWords" time="32.21" assertions="15">
 
     
 
