@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="YouPorn.Watchpage.PrivateVideoPWD"
+    errors="0" failures="0" hostname="" id="" package="Watchpage" skipped="0"
+    tests="1" time="9.957" timestamp="Wed, 18 Oct 2017 19:25:21 GMT">
+  
+    <testcase name="PrivateVideoPWD" classname="YouPorn.Watchpage.PrivateVideoPWD" time="9.957" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

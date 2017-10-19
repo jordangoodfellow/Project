@@ -5,9 +5,9 @@
 
   <testsuite name="YouPorn.HomePage.Homepage"
     errors="0" failures="0" hostname="" id="" package="HomePage" skipped="0"
-    tests="1" time="70.11" timestamp="Wed, 18 Oct 2017 00:44:48 GMT">
+    tests="1" time="65.69" timestamp="Wed, 18 Oct 2017 14:19:06 GMT">
   
-    <testcase name="Homepage" classname="YouPorn.HomePage.Homepage" time="70.11" assertions="18">
+    <testcase name="Homepage" classname="YouPorn.HomePage.Homepage" time="65.69" assertions="18">
 
     
 
